@@ -38,14 +38,17 @@
 </script>
 
 <style scoped lang="less" rel="stylesheet/less">
+  .weui-cell__ft:after{
+    border: none;
+  }
   .arr{
     height: 10px;
     width: 10px;
     transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
     position: absolute;
     top: 50%;
-    margin-top: -4px;
-    right: 15px;
+    margin-top: -6px;
+    right: 18px;
     border-width: 2px 2px 0px 0px;
     border-color: rgb(223, 160, 51);
     border-style: solid;

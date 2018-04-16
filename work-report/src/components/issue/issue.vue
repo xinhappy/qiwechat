@@ -4,10 +4,10 @@
               :left-options="{backText: '',preventGoBack: true}">
     </x-header>
     <div>
-      <div class="title" @click="open('http://qywx.pmcc.com.cn/meet/static/file/中平〔2018〕20号电子版.doc')">
+      <div class="title" @click="open('http://qywx.pmcc.com.cn:8082/meet/static/file/中平〔2018〕20号电子版.doc')">
         中平〔2018〕20号电子版
       </div>
-      <div class="title" @click="open('http://qywx.pmcc.com.cn/meet/static/file/中平〔2018〕21号电子版.doc')">
+      <div class="title" @click="open('http://qywx.pmcc.com.cn:8082/meet/static/file/中平〔2018〕21号电子版.doc')">
         中平〔2018〕21号电子版
       </div>
     </div>

@@ -307,7 +307,7 @@
         this.$router.replace({name: 'main'})
       },
       open () {
-        window.open('http://qywx.pmcc.com.cn/meet/static/file/集团2017年度信息化水平测评报告.doc')
+        window.open('http://qywx.pmcc.com.cn:8082/meet/static/file/集团2017年度信息化水平测评报告.doc')
       }
     }
   }

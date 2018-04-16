@@ -206,7 +206,7 @@
         this.$router.replace({name: 'exchange'})
       },
       open () {
-        window.open('http://qywx.pmcc.com.cn/meet/static/file/2018年信息化工作会--平煤股份五矿发言材料.doc')
+        window.open('http://qywx.pmcc.com.cn:8082/meet/static/file/2018年信息化工作会--平煤股份五矿发言材料.doc')
       }
     }
   }
