@@ -7,7 +7,7 @@
       <div>
         <img class="img-responsive" src="./image/title.png" alt="">
       </div>
-      <p class="center">中平办〔２０１8〕  号</p>
+      <p class="center">中平办〔２０１8〕47 号</p>
       <div>
         <img src="./image/line.png" alt="" style="width: 48%">
         <img src="./image/line.png" alt="" style="width: 48%">

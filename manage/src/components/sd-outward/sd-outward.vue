@@ -14,8 +14,8 @@
       </thead>
       <tbody>
       <tr v-for="(item , index) in list">
-        <td>{{item.unitname}}</td>
-        <td>{{item.today}}</td>
+        <td>{{item.unitName}}</td>
+        <td>{{item.oneday}}</td>
         <td>{{item.total}}</td>
       </tr>
       </tbody>

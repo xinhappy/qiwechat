@@ -1,0 +1,1107 @@
+<template>
+  <div style="padding:2vw;background-color: #fff">
+    <x-table full-bordered style="background-color:#fff;">
+      <thead>
+      <tr>
+        <th colspan="5">集团企业微信推广进度第一周评比表 <br>（2018年5月4日数据）</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td>序号</td>
+        <td>单位</td>
+        <td>导入率(%)</td>
+        <td>安装率(%)</td>
+        <td>合计</td>
+      </tr>
+      <tr>
+        <th colspan="5">平煤股份</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>河南平宝煤业有限公司</td>
+        <td>98</td>
+        <td>87</td>
+        <td>94.8</td>
+      </tr>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>四矿</td>
+        <td>91
+        </td>
+        <td>78
+        </td>
+        <td>85.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>安培中心</td>
+        <td>97
+        </td>
+        <td>45
+        </td>
+        <td>76.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>设备租赁站</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>物资供应分公司</td>
+        <td>81
+        </td>
+        <td>59
+        </td>
+        <td>72.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>七星选煤厂</td>
+        <td>84
+        </td>
+        <td>46
+        </td>
+        <td>68.8
+        </td>
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>救护大队</td>
+        <td>77
+        </td>
+        <td>56
+        </td>
+        <td>68.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>8
+        </td>
+        <td>中平鲁阳煤电</td>
+        <td>98
+        </td>
+        <td>15
+        </td>
+        <td>66
+        </td>
+
+      </tr>
+      <tr>
+        <td>9
+        </td>
+        <td>勘探工程处</td>
+        <td>80
+        </td>
+        <td>37
+        </td>
+        <td>62.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>二矿</td>
+        <td>78
+        </td>
+        <td>17
+        </td>
+        <td>53.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>11
+        </td>
+        <td>田庄选煤厂</td>
+        <td>72
+        </td>
+        <td>26
+        </td>
+        <td>53.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>12
+        </td>
+        <td>九矿</td>
+        <td>71
+        </td>
+        <td>11
+        </td>
+        <td>47
+        </td>
+
+      </tr>
+      <tr>
+        <td>13
+        </td>
+        <td>十矿</td>
+        <td>66
+        </td>
+        <td>11
+        </td>
+        <td>44
+        </td>
+
+      </tr>
+      <tr>
+        <td>14
+        </td>
+        <td>六矿</td>
+        <td>62
+        </td>
+        <td>16
+        </td>
+        <td>43.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>15
+        </td>
+        <td>天宏选煤公司</td>
+        <td>66
+        </td>
+        <td>9
+        </td>
+        <td>43.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>16
+        </td>
+        <td>天力公司</td>
+        <td>50
+        </td>
+        <td>18
+        </td>
+        <td>37.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>17
+        </td>
+        <td>香山矿</td>
+        <td>26
+        </td>
+        <td>13
+        </td>
+        <td>20.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>18
+        </td>
+        <td>运销公司</td>
+        <td>27
+        </td>
+        <td>2
+        </td>
+        <td>17
+        </td>
+
+      </tr>
+      <tr>
+        <td>19
+        </td>
+        <td>十一矿</td>
+        <td>10
+        </td>
+        <td>8
+        </td>
+        <td>9.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>20
+        </td>
+        <td>十三矿</td>
+        <td >14
+        </td>
+        <td>1
+        </td>
+        <td>8.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>21
+        </td>
+        <td>一矿</td>
+        <td>10
+        </td>
+        <td>5
+        </td>
+        <td>8
+        </td>
+
+      </tr>
+      <tr>
+        <td>22
+        </td>
+        <td>朝川矿</td>
+        <td>9
+        </td>
+        <td>5
+        </td>
+        <td>7.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>23
+        </td>
+        <td>八矿</td>
+        <td>4
+        </td>
+        <td>2
+        </td>
+        <td>3.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>24
+        </td>
+        <td>十二矿</td>
+        <td>3
+        </td>
+        <td>1
+        </td>
+        <td>2.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>25
+        </td>
+        <td>五矿</td>
+        <td>2
+        </td>
+        <td>0
+        </td>
+        <td>1.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>26
+        </td>
+        <td>八矿选煤厂</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr>
+        <td>27
+        </td>
+        <td>铁运处</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">许平煤业
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>瑞平煤电德平热电厂</td>
+        <td>70
+        </td>
+        <td>7
+        </td>
+        <td>44.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>高庄实业</td>
+        <td>20
+        </td>
+        <td>12
+        </td>
+        <td>16.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>禹州安泰煤业有限公司</td>
+        <td>17
+        </td>
+        <td>15
+        </td>
+        <td>16.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>瑞平煤电</td>
+        <td>14
+        </td>
+        <td>1
+        </td>
+        <td>8.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>大庄实业</td>
+        <td>5
+        </td>
+        <td>4
+        </td>
+        <td>4.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>平禹煤电</td>
+        <td>4
+        </td>
+        <td>2
+        </td>
+        <td>3.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>汝州电化</td>
+        <td>2
+        </td>
+        <td>1
+        </td>
+        <td>1.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>8
+        </td>
+        <td>长虹公司</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">神马股份
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>工程塑料公司</td>
+        <td>79
+        </td>
+        <td>17
+        </td>
+        <td>54.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>尼龙化工公司</td>
+        <td>35
+        </td>
+        <td>33
+        </td>
+        <td>34.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>蓝天化工股份有限公司</td>
+        <td>39
+        </td>
+        <td>17
+        </td>
+        <td>30.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>神马股份</td>
+        <td>31
+        </td>
+        <td>4
+        </td>
+        <td>20.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>帘子布公司</td>
+        <td>15
+        </td>
+        <td>11
+        </td>
+        <td>13.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>材料加工公司</td>
+        <td>10
+        </td>
+        <td>3
+        </td>
+        <td>7.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>尼龙科技有限公司</td>
+        <td>8
+        </td>
+        <td>0
+        </td>
+        <td>4.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>8
+        </td>
+        <td>化纤织造公司</td>
+        <td>6
+        </td>
+        <td>2
+        </td>
+        <td>4.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>9
+        </td>
+        <td>神马博列麦气囊丝公司</td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+
+      </tr>
+      <tr>
+        <td>10
+        </td>
+        <td>神马帘子布发展公司</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">化工事业部
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>能信热电</td>
+        <td>81
+        </td>
+        <td>27
+        </td>
+        <td>59.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>开封东大</td>
+        <td>53
+        </td>
+        <td>14
+        </td>
+        <td>37.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>氯碱发展</td>
+        <td>19
+        </td>
+        <td>1
+        </td>
+        <td>11.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>氯碱股份</td>
+        <td>8
+        </td>
+        <td>5
+        </td>
+        <td>6.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>力源化工</td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>开封兴化</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>联合盐化</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">焦化事业部
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>首山焦化</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td >0
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>中鸿煤化</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td >0
+        </td>
+
+      </tr>
+      <tr>
+        <td >3
+        </td>
+        <td>京宝焦化</td>
+        <td >0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr>
+        <td >4
+        </td>
+        <td>朝川焦化</td>
+        <td >0
+        </td>
+        <td >0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr>
+        <td >5
+        </td>
+        <td>开封炭素</td>
+        <td >0
+        </td>
+        <td >0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">建工集团
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>建工集团</td>
+        <td>93
+        </td>
+        <td >27
+        </td>
+        <td >66.6
+        </td>
+
+      </tr>
+      <tr>
+        <td >2
+        </td>
+        <td>土建处</td>
+        <td>76
+        </td>
+        <td>33
+        </td>
+        <td>58.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>安装处</td>
+        <td>67
+        </td>
+        <td>27
+        </td>
+        <td>51
+        </td>
+
+      </tr>
+      <tr>
+        <td >4
+        </td>
+        <td>六处</td>
+        <td >21
+        </td>
+        <td >17
+        </td>
+        <td>19.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>建井三处</td>
+        <td>22
+        </td>
+        <td>8
+        </td>
+        <td>16.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>建井一处</td>
+        <td>20
+        </td>
+        <td>5
+        </td>
+        <td>14
+        </td>
+
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>设计院</td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">机械装备集团
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>天成环保公司</td>
+        <td>35
+        </td>
+        <td>11
+        </td>
+        <td>25.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>天工机械公司</td>
+        <td>30
+        </td>
+        <td>12
+        </td>
+        <td>22.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>机械制造公司</td>
+        <td>19
+        </td>
+        <td>16
+        </td>
+        <td>17.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>机械装备集团</td>
+        <td>5
+        </td>
+        <td>3
+        </td>
+        <td>4.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>梨园矿</td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">物业事业部
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>供水分公司</td>
+        <td>86
+        </td>
+        <td >29
+        </td>
+        <td>63.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>房地产开发公司</td>
+        <td>75
+        </td>
+        <td >43
+        </td>
+        <td >62.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>平安大厦</td>
+        <td>65
+        </td>
+        <td>47
+        </td>
+        <td>57.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>阳光物业</td>
+        <td>23
+        </td>
+        <td>7
+        </td>
+        <td>16.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>物业服务中心</td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+        <td>1
+        </td>
+
+      </tr>
+      <tr>
+        <td>6
+        </td>
+        <td>职工休养院</td>
+        <td>1
+        </td>
+        <td>0
+        </td>
+        <td>0.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>7
+        </td>
+        <td>神马大酒店</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr >
+        <th colspan="5">医疗集团
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>总医院</td>
+        <td>70
+        </td>
+        <td>18
+        </td>
+        <td>49.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>职防院</td>
+        <td>25
+        </td>
+        <td>15
+        </td>
+        <td>21
+        </td>
+
+      </tr>
+      <tr>
+        <th colspan="5">事业单位
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>中国平煤神马报社</td>
+        <td>68
+        </td>
+        <td>30
+        </td>
+        <td>52.8
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>职业学院</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr>
+        <th colspan="5">其他
+        </th>
+
+      </tr>
+      <tr>
+        <td>1
+        </td>
+        <td>中平信息</td>
+        <td>98
+        </td>
+        <td>58
+        </td>
+        <td>83.2
+        </td>
+
+      </tr>
+      <tr>
+        <td>2
+        </td>
+        <td>河南天通电力有限公司</td>
+        <td>25
+        </td>
+        <td>16
+        </td>
+        <td>21.4
+        </td>
+
+      </tr>
+      <tr>
+        <td>3
+        </td>
+        <td>中平煤电公司</td>
+        <td>1
+        </td>
+        <td>0
+        </td>
+        <td>0.6
+        </td>
+
+      </tr>
+      <tr>
+        <td>4
+        </td>
+        <td>坑口电厂</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      <tr>
+        <td>5
+        </td>
+        <td>平鄂煤港</td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+        <td>0
+        </td>
+
+      </tr>
+      </tbody>
+    </x-table>
+    <div style="margin-top: 5vw;color: #f00">
+      注：合计排名=导入率*60%+安装率*40%
+    </div>
+  </div>
+</template>
+
+<script type="text/ecmascript-6">
+  import {XTable} from 'vux'
+
+  export default {
+    components: {
+      XTable
+    }
+  }
+</script>
+
+<style scoped lang="less" rel="stylesheet/less">
+  th{
+    font-size: 16px;
+    font-weight: 800;
+  }
+
+</style>
